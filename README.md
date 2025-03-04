@@ -84,7 +84,7 @@ Suggested targeted marketing strategies for different customer groups.
 
 Clone the repository:
 
-git clone https://github.com/your-username/E-commerce-Customer-Segmentation.git
+git clone [https://github.com/your-username/E-commerce-Customer-Segmentation.git](https://github.com/MohamedMarawany/E-commerce-Customer-Segmentation.git)
 cd E-commerce-Customer-Segmentation
 
 Open ecommerce_analysis.ipynb in Jupyter Notebook and run the code.
